@@ -1,0 +1,6 @@
+[package]
+name = "rusty_maths"
+version = "0.1.0"
+authors = ["upsd"]
+
+[dependencies]
